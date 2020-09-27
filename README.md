@@ -1,4 +1,6 @@
-Welcome to the chest-xray-phenumonia-classfication wiki!
+Welcome to the chest-xray-phenumonia-classfication
+
+Data - https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
 
 #Trained model and Data is Linked in Google Drive
 Link - https://drive.google.com/drive/folders/1ACOFQ1_0P6m4m5G5StSt5ZqT4z-TZGqU?usp=sharing
